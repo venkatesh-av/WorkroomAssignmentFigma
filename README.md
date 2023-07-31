@@ -1,6 +1,5 @@
 # Figma Workroom Assignment
 
-## Example Video
 
 ## Example Video
 
@@ -21,6 +20,8 @@ You can watch the example video by clicking [here](https://www.loom.com/embed/0f
 - Everything else is static.
 - You can go back to the main page by clicking "finish authoring."
 
+
+## link to see website: https://workroom-assignment-figma.vercel.app/
 
 
   
