@@ -2,7 +2,9 @@
 
 ## Example Video
 
-You can watch the example video by clicking [here](<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0f285d0541f2460a85f5074418c491b4?sid=031a5f02-ca6c-49a7-ab5b-c4c741d511a4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>).
+## Example Video
+
+You can watch the example video by clicking [here](https://www.loom.com/embed/0f285d0541f2460a85f5074418c491b4?sid=031a5f02-ca6c-49a7-ab5b-c4c741d511a4).
 
 
 ## Page-1
