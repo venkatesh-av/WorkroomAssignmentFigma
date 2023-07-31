@@ -1,0 +1,225 @@
+.canva-body-main-div{
+    display: flex;
+    border:1px solid #bfbfbf;
+    border-radius: 10px;
+    height: 100vh;
+    margin: 30px;
+    margin-bottom: 60px;
+    background-color: white;
+}
+
+
+.fields-main-div{
+
+    width: 20%;
+    border:1px solid #bfbfbf;
+    border-width: 0px;
+    border-right-width: 1px;
+    height: 100vh;
+
+}
+
+
+.hidden-show{
+    margin-top:20px
+}
+
+.canvas-last-div{
+    width: 300px;
+
+}
+.border-for-all{
+    border:1px solid #bfbfbf;
+    border-width: 0px;
+    border-bottom-width: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fields-para{
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.fields-labels{
+
+    background-color: #bfbfbf58;
+    padding: 16px;
+    border:1px solid #bfbfbf;
+}
+
+.labels-working{
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    border:1px solid #bfbfbf;
+
+}
+
+.labels-working:hover{
+
+    background-color: #a5e2fe7c;
+}
+
+.labels-name{
+    margin:0px;
+}
+
+.labels-name1{
+    margin-left: 10px;
+}
+
+/* canvas */
+
+.canvas-middle-div{
+        width: 60vw;
+        border:1px solid #bfbfbf;
+        border-width: 0px;
+        border-right-width: 1px;
+        height: 100vh;
+        
+}
+
+#hideThat{
+    display: none;
+}
+
+.hideThat1{
+    display: none;
+}
+
+.secion-canva-editing{
+    border:1px solid #bfbfbf;
+    background-color: #a5e2fe7c;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.secion-canva-editing-delete{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-title{
+    font-weight: bold;
+    margin:0px;
+}
+
+.select01{
+    color: #bfbfbf;
+}
+
+.delete-field{
+
+    border:1px solid #ed3939 ;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    color: red;
+    margin:0px;
+
+}
+
+.fa-trash-can{
+
+    color:#ed3939;
+   margin-right: 10px;
+}
+
+.secion-canva-editing-delete-dots{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.check-list-card-item{
+
+    padding: 20px;
+    width: 400px;
+}
+
+.component-verification{
+
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.ched-list-inner-card{
+
+    border:1px solid #bfbfbf;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #bfbfbf1b;
+}
+
+.check-lsit-card-item1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.check-for-dents{
+
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 250px;
+}
+
+.addan-option{
+
+    display: flex;
+    align-items: center;
+}
+
+.add-an-option{
+
+    margin-left: 20px;
+}
+
+
+.image-field-title{
+
+    display: flex;
+
+}
+
+.image-container{
+
+    border:1px solid #bfbfbf;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #bfbfbf1b;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.main-check-img-container{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.woking2{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.p222{
+
+    padding-left: 10px;
+    padding-right: 10px;
+}

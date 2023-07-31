@@ -1,0 +1,152 @@
+.body-container-main{
+
+    padding: 20px;
+    padding-left: 40px;
+    min-width: 80vw;
+}
+
+.search-container{
+
+    background-color: white;
+    padding:10px;
+    border-radius: 24px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#a4a7ad ;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.search-input{
+    border-width: 0px;
+    height: 40px;
+    width: 400px;
+    margin-left: 10px;
+    font-size: 20px;
+    outline: none;
+}
+.sheets-text{
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    
+}
+
+.body-container-select-assest{
+    border:1px solid #bfbfbf;
+    width: 250px;
+    font-style: italic;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.sheets-edit{
+    margin-right: 10px;
+    
+    
+}
+
+#displayHide1{
+
+    position: absolute;
+    margin:5% 0%;
+}
+
+#displayHide3{
+
+    position: absolute;
+    margin:5% 18%;
+}
+
+
+.sheets-input-search-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1000px;
+}
+
+.select-options-button-container-main{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.slectand-drop{
+    font-size: 60px;
+}
+
+
+
+
+
+.bo-sheets-here-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #babbbc;
+}
+
+select{
+
+    background-color: white;
+    width: 250px;
+    font-size: 18px;
+    padding: 16px;
+    cursor: pointer;
+    outline: none;
+    border-radius: 16px;
+    border-color:  #b6c3ca;
+    color:#b6c3ca;
+    margin-right: 16px;
+
+
+}
+
+.author-new-sheet{
+
+    background-image: linear-gradient(to left,#076df3,#01b3ff,#01b3ff);
+    color:white;
+    font-weight: bold;
+    display: flex;
+    width: 200px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.author-text{
+    margin-left: 10px;
+}
+.select-cont{
+    display: flex;
+}
+.svg-plus{
+    color: white;
+}
+
+@media screen and (max-width:568px){
+
+    .search-input{
+        width: 200px;
+    }
+
+    select{
+        width: 120px;
+        margin-right: 10px;
+    }
+    
+}

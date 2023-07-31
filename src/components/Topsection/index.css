@@ -1,0 +1,94 @@
+.top-secion-logo-secion{
+    display: flex;
+    align-items: center;
+
+}
+
+.logo-top-section{
+
+    width: 80px;
+    height: 80px;
+
+}
+.workroom-style{
+
+    border-style: solid;
+    border-width: 0px;
+    border-right-width: 3px;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 26px;
+
+
+}
+
+.ciq-system{
+
+    font-weight: 200;
+}
+
+.top-secion-main-bg{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 40px;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+    font-family: "Inter";
+    background-color: white;
+    
+}
+
+.top-section-rightside-icons{
+    font-size: 30px;
+    margin-right: 16px;
+    color:#007be5;
+
+}
+
+.top-secion-logo-secion-profile{
+
+    background-color:#667799 ;
+    padding: 10px;
+    border-radius: 120px;
+    opacity: 0.8;
+    margin-left: 40px;
+}
+
+.profile-name{
+    font-family: "Inter";
+    font-weight: 500;
+    padding: 0px;
+    margin:0px;
+    margin-top: 5px;
+}
+
+.surname{
+
+    color:#667799;
+    padding: 0px;
+    margin:0px;
+    margin-top: 10px;
+}
+
+@media screen and (max-width:576px){
+
+    .top-secion-main-bg{
+        width: 94%;
+        height: 16vh;
+
+        padding-left: 10px;
+        
+    }
+
+    .workroom-style{
+
+        font-size: 20px;
+    }
+    
+    .ciq-system{
+    
+       font-size: 20px;
+       margin-right: 20px;
+    }
+    
+}
